@@ -1,0 +1,3 @@
+﻿  SudokuGame.cpp
+D:\EngrProjects\SudokuGameProject\SudokuGame\SudokuGame.cpp(80,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SudokuGame.vcxproj -> D:\EngrProjects\SudokuGameProject\SudokuGame\Debug\SudokuGame.exe
